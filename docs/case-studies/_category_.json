@@ -1,0 +1,8 @@
+{
+  "label": "Case Studies",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn from real-world system design implementations"
+  }
+}

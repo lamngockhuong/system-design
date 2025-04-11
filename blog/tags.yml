@@ -17,3 +17,78 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+system-design:
+  label: System Design
+  permalink: /system-design
+  description: Articles about system design principles, patterns, and best practices
+
+scalability:
+  label: Scalability
+  permalink: /scalability
+  description: Topics related to system scalability, including horizontal and vertical scaling
+
+performance:
+  label: Performance
+  permalink: /performance
+  description: Performance optimization, monitoring, and benchmarking
+
+reliability:
+  label: Reliability
+  permalink: /reliability
+  description: System reliability, fault tolerance, and high availability
+
+architecture:
+  label: Architecture
+  permalink: /architecture
+  description: Software architecture patterns, styles, and best practices
+
+microservices:
+  label: Microservices
+  permalink: /microservices
+  description: Microservices architecture, design, and implementation
+
+database:
+  label: Database
+  permalink: /database
+  description: Database design, optimization, and scaling strategies
+
+caching:
+  label: Caching
+  permalink: /caching
+  description: Caching strategies, implementations, and best practices
+
+security:
+  label: Security
+  permalink: /security
+  description: System security, authentication, authorization, and best practices
+
+cloud:
+  label: Cloud
+  permalink: /cloud
+  description: Cloud computing, services, and deployment strategies
+
+devops:
+  label: DevOps
+  permalink: /devops
+  description: DevOps practices, tools, and automation
+
+monitoring:
+  label: Monitoring
+  permalink: /monitoring
+  description: System monitoring, logging, and observability
+
+case-study:
+  label: Case Study
+  permalink: /case-study
+  description: Real-world system design case studies and analysis
+
+best-practices:
+  label: Best Practices
+  permalink: /best-practices
+  description: System design and development best practices
+
+tools:
+  label: Tools
+  permalink: /tools
+  description: Tools and frameworks for system design and development

@@ -11,32 +11,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Fundamental Concepts',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Master the core principles of system design including scalability,
+        reliability, and performance. Learn about essential concepts like
+        load balancing, caching, and database design.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Real-world Case Studies',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Explore detailed case studies of popular systems like Twitter,
+        Netflix, and Uber. Understand how they handle massive scale and
+        complex requirements.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Best Practices & Patterns',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learn industry best practices and design patterns for building
+        robust, scalable systems. Get hands-on with practical examples
+        and implementation guidelines.
       </>
     ),
   },
