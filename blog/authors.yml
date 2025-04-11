@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+lamngockhuong:
+  name: Lam Ngoc Khuong
+  title: Software Engineer
+  url: https://github.com/lamngockhuong
+  image_url: https://github.com/lamngockhuong.png
+  page: true
+  socials:
+    x: lamngockhuong
+    github: lamngockhuong
+    linkedin: lamngockhuong
+    newsletter: https://dev.ngockhuong.com

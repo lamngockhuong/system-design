@@ -1,41 +1,64 @@
-# Website
+# System Design Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository contains comprehensive documentation about system design principles, patterns, and best practices. The documentation is built using Docusaurus, a modern static website generator.
+
+## 📚 Table of Contents
+
+- [Introduction](docs/intro.md)
+- Tutorial Basics
+- Tutorial Extras
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (version 18 or later)
+- pnpm (recommended) or npm
 
 ### Installation
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+1. Clone the repository:
+```bash
+git clone https://github.com/lamngockhuong/system-design.git
+cd system-design
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+2. Install dependencies:
+```bash
+pnpm install
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+3. Start the development server:
+```bash
+pnpm start
 ```
 
-Not using SSH:
+The site will be available at `http://localhost:3000`.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+## 📖 Documentation Structure
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The documentation is organized into the following sections:
+
+- **Introduction**: Overview of system design concepts and principles
+- **Tutorial Basics**: Fundamental system design concepts and patterns
+- **Tutorial Extras**: Advanced topics and real-world case studies
+
+## 🛠️ Built With
+
+- [Docusaurus](https://docusaurus.io/) - Modern static website generator
+- [TypeScript](https://www.typescriptlang.org/) - For type safety and better development experience
+- [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📞 Contact
+
+Lam Ngoc Khuong - [@lamngockhuong](https://github.com/lamngockhuong)
+
+Project Link: [https://github.com/lamngockhuong/system-design](https://github.com/lamngockhuong/system-design)
